@@ -3,37 +3,37 @@
         "theme": "professional"
     },
     "basics": {
-        "name": "Thomas Davis",
-        "phone": "0411021021",
-        "label": "Web Developer",
-        "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
-        "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focused developer who prioritizes user feedback first and foremost. I'm generally very flexible when investigating new roles. My publications and volunteer sections are bullshit for the purpose of showing the this theme. ",
-        "website": "https://lordajax.com",
-        "url": "https://lordajax.com",
-        "email": "thomasalwyndavis@gmail.com",
+        "name": "Gurprit",
+        "phone": "8054180735",
+        "label": "Postdoc",
+        "image": "",
+        "summary": "I'm a computational biologist. I have experience working with protein structure, microbial genomes, statistical genetics. I have experience working in high performance computing. I am proficient with open source software and linux. I'm generally very flexible when investigating new roles. My publications and volunteer sections are bullshit for the purpose of showing the this theme. ",
+        "website": "https://sekhongurprit.github.io",
+        "url": "",
+        "email": "sekhongurprit@gmail.com",
         "location": {
-            "city": "Melbourne",
-            "countryCode": "AU"
+            "city": "Chandigarh",
+            "countryCode": "IN"
         },
         "profiles": [
             {
-                "username": "ajaxdavis",
-                "url": "https://twitter.com/ajaxdavis",
+                "username": "gurprit",
+                "url": "https://https://x.com/vaastvik",
                 "network": "twitter"
             },
             {
-                "url": "https://github.com/thomasdavis",
-                "username": "thomasdavis",
+                "url": "https://github.com/sekhongurprit",
+                "username": "sekhongurprit",
                 "network": "github"
             }
         ]
     },
     "certificates": [
         {
-            "name": "Certified Kubernetes Administrator",
-            "date": "2021-05-01",
-            "issuer": "Cloud Native Computing Foundation",
-            "url": "http://certificates.com/kubernetes"
+            "name": "UGC NET/JRF",
+            "date": "2014-06-19",
+            "issuer": "University Grants Commission",
+            "url": ""
         }
     ],
     "education": [
@@ -130,31 +130,20 @@
         }
     ],
     "volunteer": [
-        {
-            "organization": "Open Source Project",
-            "position": "Contributor",
-            "url": "http://opensourceproject.com",
-            "startDate": "2016-01-01",
-            "summary": "Contributing to open source projects to improve software quality.",
-            "highlights": [
-                "Fixed critical bugs and added new features.",
-                "Mentored new contributors."
-            ]
-        }
     ],
     "work": [
         {
-            "summary": "Over the past several years, I've worked at various roles and companies. Mostly early stage startups, doing full stack product development. ",
-            "website": "https://lordajax.com/",
-            "name": "Misc Companies",
-            "location": "Melbourne",
-            "position": "Product Engineer",
-            "startDate": "2020-05-05",
+            "summary": "Over the past several years, I've worked at various research positions. ",
+            "website": "https://sekhongurprit.github.ai/",
+            "name": "CSIR-IMTECH",
+            "location": "India",
+            "position": "Research Associate",
+            "startDate": "2022-05-23",
             "highlights": [
-                "React / Next",
-                "Node / Laravel",
-                "LLM's",
-                "Diagrams / Canvas"
+                "Statistical Genetics",
+                "Population Genetics",
+                "Bioinformatics",
+                "Microbial Genomics"
             ]
         },
         {
@@ -319,7 +308,7 @@
     "languages": [
         {
             "language": "English",
-            "fluency": "Native speaker"
+            "fluency": "Advanced"
         }
     ],
     "interests": [
@@ -330,11 +319,11 @@
             ]
         },
         {
-            "name": "Music",
+            "name": "Coocking",
             "keywords": [
-                "Guitar",
-                "Singing",
-                "Dancing"
+                "Chicken",
+                "Currey",
+                "Soup"
             ]
         },
         {
