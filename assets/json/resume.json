@@ -38,24 +38,25 @@
     ],
     "education": [
         {
-            "endDate": "2009-12-12",
-            "startDate": "2008-02-12",
-            "area": "Software Engineering (incomplete)",
-            "studyType": "Bachelors",
-            "institution": "The University of Queensland"
+            "endDate": "2020-11-12",
+            "startDate": "2015-01-23",
+            "area": "Ph.D",
+            "studyType": "Doctoral",
+            "institution": "Panjab University"
+            "url": "http://hau.ac.in/",
         },
         {
-            "institution": "University of Technology",
-            "url": "http://universityoftechnology.com",
-            "area": "Computer Science",
-            "studyType": "Bachelor",
-            "startDate": "2010-09-01",
-            "endDate": "2014-06-30",
-            "score": "3.8 GPA",
+            "institution": "CCS Haryana Agriculture Univeristy",
+            "url": "http://hau.ac.in/",
+            "area": "Master of Science (MSc)",
+            "studyType": "Masters",
+            "startDate": "2009-07-01",
+            "endDate": "2011-12-30",
+            "score": "7.3 GPA",
             "courses": [
-                "CS101 - Introduction to Computer Science",
-                "CS201 - Data Structures and Algorithms",
-                "CS301 - Operating Systems"
+                "Bioinfo-502 - Staticstics for Bioinformatics",
+                "Bioinfo-503 - Concepts in computing",
+                "Bioinfo-507 - Programming Languages for Bioinformatics"
             ]
         }
     ],
