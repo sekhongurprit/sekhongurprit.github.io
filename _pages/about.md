@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Please refer to my CV for the full details of my resume
+subtitle: Please refer to my CV for the full details of my resume.
 
 profile:
   align: right
