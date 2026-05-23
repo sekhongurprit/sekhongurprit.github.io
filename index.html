@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gurprit, Ph.D</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <header class="header">
+
+      <h1>Gurprit, Ph.D</h1>
+
+      <div class="contact">
+        <a href="https://github.com/sekhongurprit" target="_blank">GitHub</a>
+        <span>|</span>
+        <span>sekhongurprit[@]gmail[dot]com</span>
+      </div>
+
+    </header>
+
+
+    <section class="pub-section">
+
+      <button class="accordion" onclick="togglePublications()">
+        Publications
+      </button>
+
+
+      <div class="pub-container" id="pubContainer">
+
+
+        <!-- Publication 1 -->
+
+        <div class="pub-card">
+
+          <div class="pub-text">
+
+            <h2>
+              A genome-wide association study to identify the genetic loci underlying<br>
+              carbapenem resistance in Acinetobacter baumannii
+            </h2>
+
+            <p class="authors">
+              Gurprit Sekhon and Balvinder Singh
+            </p>
+
+            <p class="journal">
+              BioRxiv · 2025 ·
+              <a href="pdf/sekhon_2025.pdf" target="_blank">PDF</a>
+            </p>
+
+          </div>
+
+
+          <div class="pub-gif">
+
+            <img src="gif/sekhon_2025.gif"
+                 alt="Publication GIF 1"
+                 onclick="expandGif(this.src)">
+
+          </div>
+
+        </div>
+
+
+        <!-- Publication 2 -->
+
+        <div class="pub-card">
+
+          <div class="pub-text">
+
+            <h2>
+              Role of Cys-298 in Specific Recognition of Glutathione by Aldose Reductase
+            </h2>
+
+            <p class="authors">
+              Gurprit Sekhon, Balvinder Singh and Ranvir Singh
+            </p>
+
+            <p class="journal">
+              JBSD · 2021 ·
+              <a href="pdf/sekhon_2021.pdf" target="_blank">PDF</a>
+            </p>
+
+          </div>
+
+
+          <div class="pub-gif">
+
+            <img src="gif/sekhon_2021.gif"
+                 alt="Publication GIF 2"
+                 onclick="expandGif(this.src)">
+
+          </div>
+
+        </div>
+
+
+        <!-- Publication 3 -->
+
+        <div class="pub-card">
+
+          <div class="pub-text">
+
+            <h2>
+              Human Aldose Reductase Unfolds through an Intermediate
+            </h2>
+
+            <p class="authors">
+              Gurprit Sekhon and Ranvir Singh
+            </p>
+
+            <p class="journal">
+              F1000Research · 2019 ·
+              <a href="pdf/sekhon_2019.pdf" target="_blank">PDF</a>
+            </p>
+
+          </div>
+
+
+          <div class="pub-gif">
+
+            <img src="gif/sekhon_2019.gif"
+                 alt="Publication GIF 3"
+                 onclick="expandGif(this.src)">
+
+          </div>
+
+        </div>
+
+
+        <!-- Publication 4 -->
+
+        <div class="pub-card">
+
+          <div class="pub-text">
+
+            <h2>
+              Research Presentation
+            </h2>
+
+            <p class="authors">
+             Gurprit Sekhon
+            </p>
+
+          </div>
+
+
+          <div class="pub-gif">
+
+            <img src="gif/sekhon_2026.gif"
+                 alt="Publication GIF 4"
+                 onclick="expandGif(this.src)">
+
+          </div>
+
+        </div>
+
+
+      </div>
+
+    </section>
+
+  </div>
+
+
+  <!-- GIF Modal -->
+
+  <div id="gifModal" class="modal" onclick="closeModal()">
+
+    <img class="modal-content" id="expandedGif">
+
+  </div>
+
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
