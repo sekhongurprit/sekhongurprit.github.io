@@ -116,3 +116,48 @@ body {
 .pub-gif img {
   cursor: zoom-in;
 }
+
+@media (max-width: 850px) {
+
+  .container {
+    padding: 1rem;
+  }
+
+  .header h1 {
+    font-size: 1.8rem;
+  }
+
+  .contact {
+    font-size: 0.95rem;
+  }
+
+  .accordion {
+    font-size: 1.4rem;
+  }
+
+  .pub-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .pub-text h2 {
+    font-size: 1.05rem;
+    line-height: 1.4;
+  }
+
+  .authors,
+  .journal {
+    font-size: 0.92rem;
+  }
+
+  .pub-gif img {
+    width: 120px;
+  }
+
+  .modal-content {
+    max-width: 95%;
+    max-height: 95%;
+  }
+
+}
